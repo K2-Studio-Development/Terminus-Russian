@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/pack.png" width="160" alt="Terminus Russian Localization">
+  <img src="assets/avatar.png" width="160" alt="Terminus Russian Localization">
 </p>
 
 <h1 align="center">Terminus Russian Localization</h1>
