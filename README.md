@@ -1,57 +1,142 @@
-# Terminus 1.0.0 — русская локализация и озвучка
+<p align="center">
+  <img src="assets/pack.png" width="160" alt="Terminus Russian Localization">
+</p>
 
-Неофициальный русский перевод сюжетного хоррор-мода Terminus. В локализации сохранены смысл реплик, тревожный тон, намеренные повторы, помехи и скрытые фрагменты текста. Музыка, неречевые звуки, механики и внутренние идентификаторы мода не менялись.
+<h1 align="center">Terminus Russian Localization</h1>
 
-## Совместимость
+<p align="center">
+  Unofficial Russian translation and glitch voiceover for the story-driven horror mod <b>Terminus</b>.
+</p>
 
-- Minecraft Java Edition 1.20.1
-- Forge 47+
-- GeckoLib 4.4+
-- Terminus 1.0.0
+<p align="center">
+  <a href="https://www.curseforge.com/minecraft/mc-mods/terminus-horror">Original Mod</a>
+  ·
+  <a href="https://www.curseforge.com/minecraft/mc-mods/geckolib">GeckoLib</a>
+  ·
+  <a href="#installation">Installation</a>
+  ·
+  <a href="#русский">Русский</a>
+</p>
 
-Оригинальный мод: [страница Terminus на CurseForge](https://www.curseforge.com/minecraft/mc-mods/terminus-horror).
+---
 
-## Что готово
+## English
 
-- 104 строки стандартной локализации;
-- 59 сюжетных надписей, которые были встроены прямо в код;
-- 58 дополнительных строк интерфейса, статуса и настроек;
-- 56 речевых файлов с синтезированной русской озвучкой.
+This is an unofficial Russian localization for the story-driven horror mod **Terminus**. It translates in-game text and adds synthetic Russian voice lines while keeping the uneasy tone of the original: broken messages, interference, strange repetition, and the feeling that the system is not telling you everything.
 
-В папке находятся два варианта установки:
+The original Terminus mod is required. This project is a fan localization, not a standalone mod and not an official release.
 
-- `Terminus_RU_ResourcePack_1.0.zip` — отдельный ресурспак;
-- `Terminus-1.0.0-RU-Full.jar` — полная локальная сборка мода с переводом встроенного текста.
+For the original mod description, screenshots, files, and author page, open the official CurseForge project:
 
-## Установка ресурспака
+[Terminus [Horror] on CurseForge](https://www.curseforge.com/minecraft/mc-mods/terminus-horror)
 
-1. Установите Forge 47+, GeckoLib 4.4+ и оригинальный `Terminus-1.0.jar`.
-2. Оставьте оригинальный JAR в папке `mods`.
+## Download
+
+Download the ready resource pack from this repository:
+
+[Terminus_RU_ResourcePack_1.0.zip](Terminus_RU_ResourcePack_1.0.zip)
+
+## What Is Included
+
+- Russian translation for interface text, subtitles, names, and story messages.
+- Russian voice lines for spoken phrases.
+- Horror-style voice processing with noise, glitches, radio effect, and distortion.
+- Meaning-focused translation that keeps the intent of the original lines.
+
+Gameplay mechanics, balance, mobs, world generation, and music are not changed. This is a localization, not a gameplay overhaul.
+
+## Installation
+
+1. Install the original **Terminus** mod.
+2. Install the dependencies required by the original mod.
+3. Put `Terminus_RU_ResourcePack_1.0.zip` into the `resourcepacks` folder.
+4. Enable the pack above other packs that may modify Terminus.
+5. Select Russian in the game language settings.
+
+## Important
+
+This localization is not affiliated with the original Terminus project. All rights to the original mod, its concept, code, assets, sounds, and characters belong to the original author.
+
+The Russian voiceover is synthetic. It is not a live actor recording and does not clone the voice of the author or any other person.
+
+## Content Warning
+
+Terminus uses horror atmosphere, sudden sounds, unsettling messages, visual glitches, and dark story elements. If you are sensitive to this kind of content, play carefully.
+
+## Credits
+
+Original mod: **Terminus [Horror]**.
+
+Russian localization: fan translation for Russian-speaking players.
+
+---
+
+## Русский
+
+Неофициальный русский перевод для сюжетного хоррор-мода **Terminus**. Пакет переводит игровые тексты и добавляет русскую синтетическую озвучку, сохраняя тревожный тон оригинала: обрывки сообщений, помехи, странные повторы и ощущение, что система говорит не всё.
+
+Для работы нужен оригинальный Terminus. Это фанатская локализация, а не самостоятельный мод и не официальный релиз.
+
+Официальная страница оригинального мода:
+
+[Terminus [Horror] на CurseForge](https://www.curseforge.com/minecraft/mc-mods/terminus-horror)
+
+## Скачать
+
+Готовый ресурспак лежит в этом репозитории:
+
+[Terminus_RU_ResourcePack_1.0.zip](Terminus_RU_ResourcePack_1.0.zip)
+
+## Перевод Описания Оригинала
+
+Добро пожаловать во Фрейлендс. Лучшее место для побега от всего... но только днём. Ночью лучше не попадаться ЕМУ на глаза.
+
+Чтобы попасть в этот странный мир, после появления в обычном мире идите к координатам `(0, 0)`. Там всегда стоит необычная структура. Внутри спрятан старый, заросший командный блок, который переносит игрока в пространство между обычным миром и границей мира. Это Фрейлендс: место кажется уютным и почти добрым, пока не наступает ночь. Тогда приходит туман, и вместе с ним выходит ОН.
+
+Что есть в моде:
+
+- **ОН** — существо, которое живёт в некогда мягких Фрейлендс и уже подчинило их себе.
+- **Туман** — запустение, меняющее всю атмосферу мира. Здесь больше небезопасно, а мир следит за вашим шумом.
+- **ЕГО рука** — тянется из темноты и может схватить игрока, но любую хватку можно сорвать.
+- **Шаги** — в тумане слышно, как что-то тяжёлое ходит кругами.
+- **Шум** — бег, удары, двери и падения заполняют шкалу на экране. Слишком много шума призывает ЕГО.
+- **Глаза** — единственные животные, оставшиеся в этом месте. Или всё-таки нет?
+- **Бледная фигура** — бывший житель этих земель, иногда появляющийся на горизонте.
+- **Сломанные звери** — существа без частей тела, движущиеся резкими судорогами.
+- **Пещеры** — темнее обычных; иногда в воздухе проходит тёмная дымка.
+- **Диктор** — странная сущность, которая комментирует действия игрока и даёт советы.
+
+Оригинальный мод был заказан NotVixios.
+
+## Что Внутри
+
+- русский перевод интерфейса, субтитров, названий и сюжетных сообщений;
+- русская озвучка речевых фраз;
+- обработка голоса под атмосферу хоррора: шум, гличи, радио-эффект и искажения;
+- сохранённый смысл оригинальных реплик без пересказа «своими словами».
+
+Игровые механики, баланс, мобы, генерация мира и музыка не меняются. Это локализация, а не переработка мода.
+
+## Установка
+
+1. Установите оригинальный **Terminus**.
+2. Установите все зависимости, которые требует оригинальный мод.
 3. Поместите `Terminus_RU_ResourcePack_1.0.zip` в папку `resourcepacks`.
-4. Включите ресурспак в настройках Minecraft и поставьте его выше других пакетов, меняющих Terminus.
-5. Выберите русский язык.
+4. Включите ресурспак выше других пакетов, которые могут менять Terminus.
+5. Включите русский язык в настройках игры.
 
-Ресурспак переводит 104 обычные строки и заменяет 56 речевых файлов. Ещё 117 надписей автор встроил непосредственно в Java-код, поэтому обычный ресурспак изменить их не может: во время прохождения часть текста останется английской.
+## Важно
 
-## Установка полной локальной сборки
+Локализация не относится к официальному проекту Terminus. Все права на оригинальный мод, его идею, код, ассеты, звуки и персонажей принадлежат автору оригинала.
 
-1. Установите Forge 47+ и GeckoLib 4.4+.
-2. Уберите оригинальный `Terminus-1.0.jar` из папки `mods`.
-3. Поместите туда `Terminus-1.0.0-RU-Full.jar`.
-4. Не устанавливайте оригинальный и русифицированный JAR одновременно.
+Русская озвучка синтетическая. Она не является записью живого актёра и не копирует голос автора или других людей.
 
-Полная сборка уже содержит перевод, ресурсы и русскую озвучку. Подключать к ней отдельный ресурспак не нужно.
+## Предупреждение
 
-## Как создавалась локализация
+Terminus использует хоррор-атмосферу, резкие звуки, тревожные сообщения, визуальные помехи и мрачные сюжетные элементы. Если вы чувствительны к таким вещам, играйте осторожно.
 
-Русский текст подготовлен с помощью генеративных инструментов. После перевода были проверены смысл, единообразие терминов, плейсхолдеры и структура архивов. Речевые реплики созданы синтезированным голосом и подогнаны под длительность исходных файлов.
+## Благодарности
 
-## Проверка
+Оригинальный мод: **Terminus [Horror]**.
 
-Архивы проверены на целостность, состав файлов, формат звука и корректность замен в классах. Полноценный запуск и прохождение мода в клиенте Minecraft пока не проводились.
-
-## Права и публикация
-
-Оригинальный мод создан DregIr / Danila Podpivas и опубликован с пометкой `All Rights Reserved`. Эта локализация не является официальной и сама по себе не даёт права распространять чужие материалы.
-
-До получения письменного разрешения правообладателя оба файла предназначены только для личного использования. Не загружайте изменённый JAR или ресурспак на CurseForge, Modrinth и другие площадки. Для публичного релиза нужно отдельное разрешение на перевод, озвучку и распространение производных файлов.
+Русская локализация: фанатский перевод для русскоязычных игроков.
