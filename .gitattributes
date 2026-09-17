@@ -1,0 +1,12 @@
+* text=auto
+
+*.md text eol=lf
+*.txt text eol=lf
+*.json text eol=lf
+*.ps1 text eol=lf
+*.py text eol=lf
+*.ffscript text eol=lf
+
+*.ogg binary
+*.zip binary
+*.png binary

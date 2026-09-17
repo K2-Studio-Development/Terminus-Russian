@@ -1,0 +1,18 @@
+.terminus-ru-build/
+terminus-1.0-unpacked/
+Terminus-1.0.0-RU-Unpacked/
+Terminus_Original_Audio/
+Terminus_Original_Voice/
+Terminus_RU_Clean_Voice_Backup/
+Terminus_RU_Scary_Glitch_Voice/
+Terminus_Audio_Test/
+
+*.tmp
+*.bak
+__pycache__/
+*.pyc
+
+# Original/derived heavyweight archives kept local unless published with permission.
+Terminus_Original_Audio.zip
+Terminus_Original_Voice.zip
+Terminus-1.0.0-RU-Full.jar
