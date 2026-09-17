@@ -20,7 +20,7 @@
   <a href="https://www.curseforge.com/minecraft/mc-mods/terminus-horror" title="Original Terminus on CurseForge"><img src="https://img.shields.io/badge/-%20-F16436?style=for-the-badge&logo=curseforge&logoColor=white" height="42" alt="CurseForge"></a>
   <a href="https://discord.gg/zFvrHz2ys7" title="Join the K2 Studio Discord"><img src="https://img.shields.io/badge/-%20-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="42" alt="Discord"></a>
   <a href="https://t.me/K2Studio_Dev" title="K2 Studio Telegram channel"><img src="https://img.shields.io/badge/-%20-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="42" alt="Telegram"></a>
-  <a href="https://dalink.to/kamilchik1231" title="All project links on DAlink"><img src="https://raw.githubusercontent.com/K2-Studio-Development/Terminus-Russian/main/docs/assets/dalink-k2.svg" width="36" height="36" alt="DAlink"></a>
+  <a href="https://dalink.to/kamilchik1231" title="All project links on DAlink"><img src="https://raw.githubusercontent.com/K2-Studio-Development/Terminus-Russian/main/docs/assets/dalink-k2.svg" width="30" height="30" alt="DAlink"></a>
 </p>
 
 ---
