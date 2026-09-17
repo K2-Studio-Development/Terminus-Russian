@@ -21,7 +21,7 @@
 <p align="center">
   <a href="https://discord.gg/zFvrHz2ys7" title="Join the K2 Studio Discord"><img src="https://img.shields.io/badge/-%20-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="42" alt="Discord"></a>
   <a href="https://t.me/K2Studio_Dev" title="K2 Studio Telegram channel"><img src="https://img.shields.io/badge/-%20-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="42" alt="Telegram"></a>
-  <a href="https://dalink.to/kamilchik1231" title="All project links on DAlink"><img src="docs/assets/dalink.svg" width="42" height="42" alt="DAlink"></a>
+  <a href="https://dalink.to/kamilchik1231" title="All project links on DAlink"><img src="docs/assets/dalink-k2.svg" width="42" height="42" alt="DAlink"></a>
 </p>
 
 ---
